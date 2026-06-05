@@ -14,3 +14,6 @@ build/
 # IDE
 .vscode/
 .idea/
+
+# dbt
+logs/
