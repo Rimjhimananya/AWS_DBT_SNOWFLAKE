@@ -1,0 +1,9 @@
+
+target/
+dbt_packages/
+logs/
+
+# Credentials - never push to GitHub
+profiles.yml
+.user.yml
+dbt_internal_packages/
